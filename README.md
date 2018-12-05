@@ -1,8 +1,7 @@
-# filter_selection
+Flutter challenge of implementing filter screen with animations
 
-A new Flutter project.
+![recording](recording_gif.gif)
 
-## Getting Started
+Design by Vlad Fedoseyev(https://dribbble.com/vladfedoseyev)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Dribbble shot - https://dribbble.com/shots/5116188-Ingredients-Selection 
